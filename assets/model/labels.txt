@@ -1,0 +1,16 @@
+0:  Rotten Apple
+1:  Rotten Banana
+2:  Rotten Grape
+3:  Rotten Guava
+4:  Rotten Jujube
+5:  Rotten Orange
+6:  Rotten Pomegranate
+7:  Rotten Strawberry
+8:  Fresh Apple
+9:  Fresh Banana
+10: Fresh Grape
+11: Fresh Guava
+12: Fresh Jujube
+13: Fresh Orange
+14: Fresh Pomegranate
+15: Fresh Strawberry
